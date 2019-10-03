@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1570125534 source:c:\laboratorio c\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"valida.h"
+	"informes.h"
+	"empleado.h"
+
+1570123631 c:\laboratorio c\tp 2\validacion.h
+
+1570124539 c:\laboratorio c\tp 2\valida.h
+
+1570124569 source:c:\laboratorio c\tp 2\valida.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"valida.h"
+
+1570125382 source:c:\laboratorio c\tp 2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"valida.h"
+
+1570125025 c:\laboratorio c\tp 2\informes.h
+	"empleado.h"
+
+1570125005 c:\laboratorio c\tp 2\empleado.h
+
+1570125610 source:c:\laboratorio c\tp 2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"empleado.h"
+	"valida.h"
+
